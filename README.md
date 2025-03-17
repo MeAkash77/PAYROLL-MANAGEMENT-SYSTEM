@@ -25,9 +25,6 @@
 
 Before you proceed to installation, make sure you have installed `XAMPP` first and import the database in `phpmyadmin`.
 
- 
-PLEASE STAR ⭐ OR FORK IF YOU THINK THIS IS HELPFUL TO YOU.
-
 **Message me on [Github](https://github.com/MeAkash77) for the database file**
 
 ## ✨ Installation
