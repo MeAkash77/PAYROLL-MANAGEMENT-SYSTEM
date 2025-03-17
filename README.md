@@ -28,7 +28,7 @@ Before you proceed to installation, make sure you have installed `XAMPP` first a
  
 PLEASE STAR ⭐ OR FORK IF YOU THINK THIS IS HELPFUL TO YOU.
 
-**Message me on [Facebook](https://github.com/MeAkash77) for the database file**
+**Message me on [Github](https://github.com/MeAkash77) for the database file**
 
 ## ✨ Installation
  
